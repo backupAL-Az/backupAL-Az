@@ -8,12 +8,12 @@
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mays-alazzawi)
 
  
-<br/>
-<div><img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true&theme=merko"/>
-</div>
-<div> 
-<img alt="Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mays-M&layout=compact"/>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mays-M&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Mays-M&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mays-M&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
  ## 🏆 GitHub Trophies
