@@ -1,4 +1,4 @@
- name: Generate_Snake_gif_and_svg
+name: Generate_Snake_gif_and_svg
 
 on:
   schedule:
