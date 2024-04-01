@@ -8,3 +8,5 @@
 <img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true&theme=merko"/>
 
 <img alt="Top Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mays-M&layout=compact"/>
+
+![snake gif](https://github.com/Mays-M/Mays-M/blob/output/github-contribution-grid-snake.gif)
