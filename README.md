@@ -5,3 +5,5 @@
 - 📫 I use this platform to push my work and projects.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mays-M&hide=contribs,prs)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true)
