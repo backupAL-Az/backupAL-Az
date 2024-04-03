@@ -4,9 +4,6 @@
 - 💞️ I recently started to work with github, I used to work with gitlab.
 - 📫 I use this platform to share my work and projects.
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mays-alazzawi)
-
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mays-M&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
