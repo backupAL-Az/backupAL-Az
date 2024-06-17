@@ -30,7 +30,8 @@
   </a>
 </div>
 
-- 👋 Hi, I’m Mays 
+<!-- Introduction -->
+<h1 align="center"> 👋 Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk
 - 🌱 I have an Engineer background  and I am focusing on field of software development and cybersecurity.
 - 💞️ I recently started to work with github, I used to work with gitlab.
