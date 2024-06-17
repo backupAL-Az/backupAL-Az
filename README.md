@@ -7,11 +7,11 @@
     <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
   </a>
   
-  <a href="https://github.com/zied-snoussi">
-    <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
+  <a href="https://github.com/Mays-M">
+    <img src="https://img.shields.io/github/followers/Mays-M?label=Follow&style=social" alt="Mays-M" />
   </a>
-    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
-    <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="zied-snoussi" />
+    <a href="https://user-badge.committers.top/tunisia_private/Mays-M">
+    <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="Mays-M" />
   </a>
   <a href="https://www.linkedin.com/in/zied-snoussi/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
