@@ -3,7 +3,7 @@
 
 <!-- Social Links and Badges -->
 <div align="left">
-  <a href="https://github.com/zied-snoussi">
+  <a href="https://github.com/Mays-M">
     <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
   </a>
   
@@ -13,25 +13,16 @@
     <a href="https://user-badge.committers.top/tunisia_private/Mays-M">
     <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="Mays-M" />
   </a>
-  <a href="https://www.linkedin.com/in/zied-snoussi/">
+  <a href="https://www.linkedin.com/in/Mays.al-azzawi/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
   <a href="https://twitter.com/ziedalsnoussi">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
-  </a>
-  <a href="mailto:ziedsnoussi.tn@gmail.com">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
-  </a>
-  <a href="https://www.youtube.com/@ziedsnoussi">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
-  </a>
-  <a href="https://medium.com/@ziedsnoussi.tn">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
-  </a>
-</div>
+ 
+
 
 <!-- Introduction -->
-<h1 align="center"> 👋 Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
+<h1 align="center"> Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
   
