@@ -1,3 +1,37 @@
+<!-- Capsule Render Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+
+<!-- Social Links and Badges -->
+<div align="left">
+  <a href="https://github.com/zied-snoussi">
+    <img src="https://komarev.com/ghpvc/?username=zied-snoussi&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi"/>
+  </a>
+  <a href="https://www.map.org.uk">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px">
+  </a>
+  <a href="https://github.com/zied-snoussi">
+    <img src="https://img.shields.io/github/followers/zied-snoussi?label=Follow&style=social" alt="zied-snoussi" />
+  </a>
+    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
+    <img src="https://user-badge.committers.top/tunisia_private/zied-snoussi.svg" alt="zied-snoussi" />
+  </a>
+  <a href="https://www.linkedin.com/in/zied-snoussi/">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
+  </a>
+  <a href="https://twitter.com/ziedalsnoussi">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
+  </a>
+  <a href="mailto:ziedsnoussi.tn@gmail.com">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+  <a href="https://www.youtube.com/@ziedsnoussi">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/youtube" />
+  </a>
+  <a href="https://medium.com/@ziedsnoussi.tn">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/medium/777777" />
+  </a>
+</div>
+
 - 👋 Hi, I’m Mays 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk
 - 🌱 I have an Engineer background  and I am focusing on field of software development and cybersecurity.
