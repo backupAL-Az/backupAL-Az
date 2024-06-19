@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/github/followers/Mays-M?label=Follow&style=social" alt="Mays-M" />
 
  
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Mays-M&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Mays-M&theme=radical&hide_border=true)
