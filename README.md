@@ -1,6 +1,18 @@
 <!-- Capsule Render Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
+<!-- Introduction -->
+<h1 align="center"> Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
+
+- 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
+  
+- 🌱 I have an Engineer background  and I am focusing on field of software development and cybersecurity.
+  
+- 💞️ I recently started to work with github, I used to work with gitlab.
+  
+- 📫 I use this platform to share my work and projects.
+
+
 <!-- Social Links and Badges -->
 <div align="left">
   <a href="https://github.com/Mays-M">
@@ -16,20 +28,6 @@
   <a href="https://www.linkedin.com/in/Mays.al-azzawi/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
-
- 
-
-
-<!-- Introduction -->
-<h1 align="center"> Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
-
-- 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
-  
-- 🌱 I have an Engineer background  and I am focusing on field of software development and cybersecurity.
-  
-- 💞️ I recently started to work with github, I used to work with gitlab.
-  
-- 📫 I use this platform to share my work and projects.
 
  
 # 📊 GitHub Stats:
