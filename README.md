@@ -21,10 +21,7 @@
   
   <a href="https://github.com/Mays-M">
     <img src="https://img.shields.io/github/followers/Mays-M?label=Follow&style=social" alt="Mays-M" />
-  </a>
-    <a href="https://user-badge.committers.top/finland_private/Mays-M">
-    <img src="https://user-badge.committers.top/finalnd_private/Mays-M.svg" alt="Mays-M" />
-  </a>
+ 
   <a href="https://www.linkedin.com/in/Mays.al-azzawi/">
     <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
   </a>
