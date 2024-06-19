@@ -19,9 +19,6 @@
   <a href="https://github.com/Mays-M">
     <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
   </a>
-  
-  <a href="https://github.com/Mays-M">
-    <img src="https://img.shields.io/github/followers/Mays-M?label=Follow&style=social" alt="Mays-M" />
 
  
 # 📊 My GitHub Stats:
