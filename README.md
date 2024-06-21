@@ -31,5 +31,11 @@
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mays-M&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Capsule Render bottom-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=bottom"/>
+<!-- Bottom -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FajarKim/FajarKim/master/images/line.svg?sanitize=true"/>
+</div>
+<!-- <p align="center">Made with ❤️ and TypeScript</p> -->
+<p align="center">Copyright © 2024 Mays AL-Azzawi</p>
+
