@@ -31,5 +31,5 @@
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mays-M&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
-<!-- Capsule Render Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<!-- Capsule Render bottom-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=bottom"/>
