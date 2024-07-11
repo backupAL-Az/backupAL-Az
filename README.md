@@ -10,7 +10,7 @@
   
 - 💞️ I recently started to work with github, I used to work with gitlab.
   
-- 📫 I use this platform to share my work and projects.
+- 📫 I use this platform to share my previous work.
 
 
 <br>
