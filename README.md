@@ -1,5 +1,5 @@
 <!-- Capsule Render Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
 <!-- Introduction -->
 <h1 align="center"> Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
