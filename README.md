@@ -29,6 +29,7 @@
 </div>
 
 <!-- Technology Stack Section -->
+
 <h3 align="center">My Stack</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb" alt="react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb"/>
