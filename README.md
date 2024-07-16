@@ -20,20 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
   </a>
 
- <!-- Statistics Section -->
-<h3 align="center">Statistics</h3>
-<div align="center">
-    <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mays-M&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</div>
 
-<!-- Technology Stack Section -->
-
-<h3 align="center">My Stack</h3>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb" alt="react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb"/>
-</div>
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mays-M&theme=discord&no-frame=true&no-bg=true&margin-w=4)
