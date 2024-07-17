@@ -4,7 +4,9 @@
   <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
 </p>
 <!-- Introduction -->
-<h1 align="center"> Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
+<h1 align="center"> Hello! I'm  Mays</h1> <p align="right">
+  <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
+</p>
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
   
