@@ -1,9 +1,11 @@
 <!-- Capsule Render Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 <!-- Introduction -->
-<h1 align="center"> Hello! I'm  Mays</h1> <p align="right">
-  <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
 
+<p align="center">
+  <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
+</p>
+<h1 align="center"> Hello! I'm  Mays</h1> <p align="right">
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
   
