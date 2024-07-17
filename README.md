@@ -11,7 +11,7 @@
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
 
-|   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)|![Image](https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png) |
+|   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true)|![Image](https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png) |
 | --- | --- |
 
 
