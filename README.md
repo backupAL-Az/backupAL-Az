@@ -6,7 +6,7 @@
   <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
 </p>
 
-<h1 align="left"> Hello! I'm  Mays</h1> 
+## Hello! I'm  Mays
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
   
@@ -14,7 +14,7 @@
   
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
-<h1 align="left"> GitHub Streak</h1>
+## GitHub Streak
 
 ![Mays-M](https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true&theme=radical)
 
