@@ -11,9 +11,10 @@
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
 
+
 <div class="wp-block-acf-sticker sticker align  sticker--position-right">
       <div class="sticker__element sticker__element--image">
-      <img decoding="async" width="600" height="600" src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" class="attachment-full size-full" alt="" srcset="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png 200w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 200w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 100w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 300w" sizes="(max-width: 300px) 100vw, 200px" />    </div>
+      <img decoding="async" width="200" height="200" src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" class="attachment-full size-full" alt="" srcset="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png 600w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-400x400.png 400w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 100w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-500x500.png 500w" sizes="(max-width: 600px) 100vw, 600px" />    </div>
     </div>
 <br>
 <!-- Social Links and Badges -->
