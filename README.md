@@ -12,7 +12,7 @@
 
 
 
-<img decoding="async" width="200" height="200" src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" class="attachment-full size-full" alt="" srcset="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png 600w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-400x400.png 400w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 100w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-500x500.png 500w" sizes="(max-width: 600px) 100vw, 600px" />  
+<img decoding="async" width="200" height="200" style="float: right; margin-left: 15px;" src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" class="attachment-full size-full" alt="" srcset="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png 600w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-400x400.png 400w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 100w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-500x500.png 500w" sizes="(max-width: 600px) 100vw, 600px" />  
    
     
 <br>
