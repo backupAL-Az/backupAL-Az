@@ -11,14 +11,8 @@
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1;">
-    <p>This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. This is some text that will appear to the left of the image.</p>
-  </div>
-  <div style="flex-shrink: 0;">
-    <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
-  </div>
-</div>
+|   This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. |![Image](https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png) |
+| --- | --- |
 
 
 
