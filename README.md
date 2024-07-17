@@ -11,6 +11,10 @@
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
 
+<div class="wp-block-acf-sticker sticker align  sticker--position-right">
+      <div class="sticker__element sticker__element--image">
+      <img decoding="async" width="600" height="600" src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" class="attachment-full size-full" alt="" srcset="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png 600w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-400x400.png 400w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 100w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-500x500.png 500w" sizes="(max-width: 600px) 100vw, 600px" />    </div>
+    </div>
 <br>
 <!-- Social Links and Badges -->
 <div align="left">
@@ -18,11 +22,6 @@
     <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
   </a>
 
-
-<div class="wp-block-acf-sticker sticker align  sticker--position-right">
-      <div class="sticker__element sticker__element--image">
-      <img decoding="async" width="600" height="600" src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" class="attachment-full size-full" alt="" srcset="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png 600w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-400x400.png 400w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-100x100.png 100w, https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s-500x500.png 500w" sizes="(max-width: 600px) 100vw, 600px" />    </div>
-    </div>
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mays-M&theme=discord&no-frame=true&no-bg=true&margin-w=4)
