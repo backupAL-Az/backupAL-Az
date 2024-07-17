@@ -1,11 +1,20 @@
 <!-- Capsule Render Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-<!-- Introduction -->
+
+<!-- Social Links and Badges -->
+<div align="left">
+  <a href="https://github.com/Mays-M">
+    <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
+  </a>
+
+
+
 
 <p align="center">
   <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
 </p>
 
+<!-- Introduction -->
 ## Hello! I'm  Mays
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
@@ -20,12 +29,6 @@
 
 
     
-<br>
-<!-- Social Links and Badges -->
-<div align="left">
-  <a href="https://github.com/Mays-M">
-    <img src="https://komarev.com/ghpvc/?username=Mays-M&label=Profile%20views&color=0e75b6&style=flat" alt="Mays-M"/>
-  </a>
 
 
  ## 🏆 GitHub Trophies
