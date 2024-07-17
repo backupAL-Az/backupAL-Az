@@ -1,6 +1,8 @@
 <!-- Capsule Render Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-
+<p align="right">
+  <img src="https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png" width="200" height="200" alt="Smiley">
+</p>
 <!-- Introduction -->
 <h1 align="center"> Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm  Mays</h1>
 
@@ -11,9 +13,7 @@
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
 
-|   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true)|![Image](https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png) |
-| --- | --- |
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mays-M&show_icons=true)|
 
 
     
