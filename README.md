@@ -11,9 +11,8 @@
 - 📫 I use this platform to share my previous work. Of course, my current work is private.👀
 
 
+ ![Image](https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png) 
 
-| ![Image](https://unfair.fi/wp-content/uploads/unfair-tarra-smiley-2-s.png) | This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. This is some text that will appear to the left of the image. |
-|---|---|
 
 
     
