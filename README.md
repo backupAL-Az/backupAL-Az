@@ -21,7 +21,7 @@
   
 - 🌱 I have an Engineer background  and I am focusing on field of software development, cybersecurity and ethical hacking.
   
-- 📫 I use this platform to share my previous work. Of course, my current work is private.👀
+- 📫 I use this platform to share my previous work. Unless, my current work is private.👀
 
 ## GitHub Streak
 
