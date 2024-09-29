@@ -19,7 +19,7 @@
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
   
-- 🌱 At this moment I work on my thesis to assesst the future of cybersecurity.
+- 🌱 At this moment I work on my thesis to assess the future of cybersecurity..
   
 - 📫 I use this platform to share my previous work. Unless, my current work is private.👀
 
