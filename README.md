@@ -19,7 +19,7 @@
 
 - 👀 I’m studying a bachelor's degree in Information and communication Technology Engineering at Jamk.
   
-- 🌱 I have an Engineer background  and I am focusing on field of software development, cybersecurity and ethical hacking.
+- 🌱 At this moment I work on my thesis to assesst the future of cybersecurity.
   
 - 📫 I use this platform to share my previous work. Unless, my current work is private.👀
 
